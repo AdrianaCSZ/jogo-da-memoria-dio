@@ -2,7 +2,7 @@
 Jogo da memória desenvolvido com HTML, CSS e JavaScript
 
 Este é um jogo da memória desenvolvido no desafio de projeto de JavaScript do bootcamp TQI Fullstack Developer na plataforma DIO.
-Ministrado por Gabriela Pinheiro - Frontend Engineer
+Ministrado por Gabriela Pinheiro - Frontend Engineer.
 
 
 ## Utilizei o tema da "MARVEL - Mulheres Heroínas".
