@@ -23,6 +23,6 @@ O jogo começa em uma _splash screen_ e em seguida carrega um novo tabuleiro com
 
 
 
-># Screenshots
-><img src="/screenshots/1.png" alt="first-screenshot">
-><img src="/screenshots/2.png" alt="second-screenshot">
+>># Screenshots>>
+>><img src="/screenshots/1.png" alt="first-screenshot"> >>
+>><img src="/screenshots/2.png" alt="second-screenshot"> >>
