@@ -5,7 +5,7 @@ Este é um jogo da memória desenvolvido no desafio de projeto de JavaScript do 
 Ministrado por Gabriela Pinheiro - Frontend Engineer.
 
 
-Utilizei o tema da "MARVEL - Mulheres Heroínas".
+* Utilizei o tema da "MARVEL - Mulheres Heroínas".
 
 
 
